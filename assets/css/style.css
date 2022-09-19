@@ -1,0 +1,35 @@
+.title-page {
+    color: rgb(0, 38, 255);
+    font-family: cursive;
+    font-size: 35px;
+    text-align: center;
+}
+
+.villa-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-bottom: 20px;
+}
+
+.villa-img:hover {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+
+.text-block {
+    width: 75%;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    list-style:none;
+}
+
+html {
+    background: #b0f7f7;
+}
